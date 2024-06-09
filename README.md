@@ -1,4 +1,4 @@
-# ChromeExtensionZillow
+# Zillow Chrome Extension
 ## Overview
 This is a chrome extension to help simplify the collection of data from Zillow.com. The code is written in javascript and HTML. Because websites can change frequently, this extension does not provide a robust solution in the long term. However, it does serve as a simple project to learn the potential use cases of javascript for collecting data.
 
